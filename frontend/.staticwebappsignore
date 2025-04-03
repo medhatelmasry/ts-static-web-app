@@ -1,0 +1,7 @@
+**/.git/**
+**/.vscode/**
+**/node_modules/**
+**/*.ts
+**/*.tsx
+!dist/**
+!staticwebapp.config.json
